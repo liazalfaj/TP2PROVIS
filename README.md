@@ -1,8 +1,8 @@
 # TP2PROVIS
 NIM : 2203999 <br>
-Nama : Amelia Zalfa Julianti
-Kelas : C1
-Kelompok : 7
+Nama : Amelia Zalfa Julianti <br>
+Kelas : C1 <br>
+Kelompok : 7 <br>
 
 Halaman ini menampilkan form isian kelengkapan data diri sesuai dengan dokumen resmi dan kartu identitas.
 
